@@ -1,4 +1,4 @@
-# Hi!!:wave: I'm Maximo Manzotti 👋🏻 😃
+# Hi!!👋🏻 I'm Maximo Manzotti 👋🏻 😃
 
 ![me](https://user-images.githubusercontent.com/64936675/155836649-58c8062a-0398-4545-9f23-245be5b3cf17.jpeg)
 
