@@ -11,6 +11,6 @@ const MaximoManzotti {
 ```
 
 ## Contact Information 
-<p>Telefono: +54 9 11 23493002 :calling:</p>
-<p>LinkedIn: <a href='https://www.linkedin.com/in/maximo-manzotti-440a22b8/'> linkedin.com/in/maximo-manzotti-440a22b8/ </a></p>
-<p>Gmail: maximo1611@gmail.com :mailbox:</p> 
+<p>Telefono: +54 9 11 23493002 📲 </p>
+<p>LinkedIn: <a href='https://www.linkedin.com/in/maximo-manzotti-440a22b8/'> linkedin.com/in/maximo-manzotti-440a22b8/ </a> 👨🏽‍💻 </p> 
+<p>Gmail: maximo1611@gmail.com 📬 </p> 
