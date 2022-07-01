@@ -1,6 +1,6 @@
 # Hi!!👋🏻 I'm Maximo Manzotti😃
 
-![me](https://user-images.githubusercontent.com/64936675/176816460-84b2d7e7-f570-4752-a5d5-513ea8f74d5a.png)
+![me](https://user-images.githubusercontent.com/64936675/176897025-1a8ad415-2c8c-4dab-a400-edcae3a5b81f.png)
 
 ```js
 const MaximoManzotti { 
