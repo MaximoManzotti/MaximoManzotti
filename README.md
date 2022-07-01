@@ -6,7 +6,7 @@
 const MaximoManzotti { 
   country: Argentina ; 
   job: [Flipa, CoderHouse, freelance];
-  skills: [HTML, CSS, SCSS, Bootstrap, JavaScript, React, NodeJs, Express, SQL, Sequelize, MongoDB, Redis];
+  skills: [HTML, CSS, SCSS, Bootstrap, JavaScript, React, NodeJs, Express, SQL, Sequelize, MongoDB, Firebase, Redis];
 }
 ```
 
